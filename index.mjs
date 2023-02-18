@@ -137,7 +137,7 @@ ${contribution}
 ${test}
 
 ## Questions
-For any questions, you can contact me here: ${username}
+For any questions, you can contact me here: https://github.com/${username}
 
 ###### The smallest heading`
 
