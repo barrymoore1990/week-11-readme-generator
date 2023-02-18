@@ -115,11 +115,18 @@ if (license === 'Boost') {
 console.log(licenseBadge);
 
 let readmeText = `# ${title}
+${licenseBadge}
+
 ## Description
 ${description}
 
 ## Table of Contents
-${licenseBadge}
+<li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
+<li><a href="#license">License</a></li>
+<li><a href="#contributing">Contributing</a></li>
+<li><a href="#tests">Test</a></li>
+<li><a href="#questions">Questions</a></li>
 
 ## Installation
 ${installation}
@@ -139,7 +146,7 @@ ${test}
 ## Questions
 For any questions, you can contact me here: https://github.com/${username}
 
-###### The smallest heading`
+Or alternatively, you can email me at ${email}`
 
 fs.writeFile("README.md", readmeText);
 
