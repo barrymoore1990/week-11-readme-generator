@@ -148,6 +148,6 @@ For any questions, you can contact me here: https://github.com/${username}
 
 Or alternatively, you can email me at ${email}`
 
-fs.writeFile("README.md", readmeText);
+fs.writeFile("generated-readme/README.md", readmeText);
 
 

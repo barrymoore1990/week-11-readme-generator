@@ -1,12 +1,10 @@
-# README Generator Project
+# An example title
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-The motivation to build this project was to save time when doing projects. With this, it enables me (or others) to generate readmes automatically, from responding to prompts.
-
-I learned a huge amount, including how to write to files, how to format the files before writing to them, how to use inquirer, using a mjs file, and more!
+This is a demonstration to show my readme generator project is working
 
 ## Table of Contents
 
@@ -14,6 +12,7 @@ I learned a huge amount, including how to write to files, how to format the file
 <li><a href="#usage">Usage</a></li>
 <li><a href="#license">License</a></li>
 <li><a href="#contributing">Contributing</a></li>
+<li><a href="#tests">Test</a></li>
 <li><a href="#questions">Questions</a></li>
 
 ## Installation
@@ -25,10 +24,7 @@ I learned a huge amount, including how to write to files, how to format the file
 
 See screenshot below of an example of a generated readme file, plus you can also watch the video here to see how to use: https://watch.screencastify.com/v/SXpdXO8Ve1QJoK2CqOox
 
-To view the project's repo, you can see a link here: https://github.com/barrymoore1990/week-11-readme-generator/
-To view the project live online on it's Github page, you can see it here: https://barrymoore1990.github.io/week-11-readme-generator/
-
-![My Image](images/screenshot.png)
+![My Image](Screenshot.png)
 
 ## License
 
@@ -44,15 +40,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Enter contribution guidelines
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+## Tests
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+Testing
 
 ## Questions
 
